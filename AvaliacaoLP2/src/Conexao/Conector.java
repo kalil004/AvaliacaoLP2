@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class Conector {
     public static Connection getConnection() {
 		try {
-			return DriverManager.getConnection("jdbc:mysql://localhost/alunos", "root", "fatec");
+			return DriverManager.getConnection("jdbc:mysql://localhost/alunos", "root", "123");
 		} catch(SQLException excecao) {
 			throw new RuntimeException(excecao); 
 		}
