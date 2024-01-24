@@ -1,6 +1,0 @@
-Nome: nome
-Data do Cálculo: 29112023_194957
-Data do Peso Registrado: 01010101
-Peso: 76 kg
-Resultado IMC: 24.816326530612244 normal
-
