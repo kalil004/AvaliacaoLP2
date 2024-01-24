@@ -1,0 +1,6 @@
+Nome: joao
+Data do Cálculo: 29112023_195909
+Data do Peso Registrado: 20040708
+Peso: 76 kg
+Resultado IMC: 24.816326530612244 normal
+

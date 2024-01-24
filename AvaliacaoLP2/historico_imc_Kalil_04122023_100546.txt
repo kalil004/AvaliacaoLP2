@@ -1,0 +1,6 @@
+Nome: Kalil
+Data do Cálculo: 04122023_100546
+Data do Peso Registrado: 2023-12-04
+Peso: 70 kg
+Resultado IMC: 22.857142857142858 normal
+
